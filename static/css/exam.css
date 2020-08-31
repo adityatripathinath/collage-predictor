@@ -1,0 +1,73 @@
+nav{
+    background: black;
+    width: 100%;
+}
+.nav{
+	position:absolute
+  margin-left:1280px;
+  top:10px;
+}
+div{
+	margin-left:0px;
+}
+.icon1{
+	position:absolute;
+  top: 155px;
+  margin-left:1280px;
+color:green;
+}
+.icon2{
+	position: absolute;
+  top: 255px;
+  margin-left:1280px;
+color:green;
+}
+.icon3{
+	position: absolute;
+  top: 355px;
+  margin-left:1280px;
+color:green;
+}
+.img {
+	
+
+}
+.btn-group button {
+  background-color: #000000; /* Green background */
+  border: 1px #03befc; /* Green border */
+  color: #03befc; /* White text */
+  padding: 16px 90px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 100%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: blueviolet;
+}
+.btn-group2 button {
+  background-color: #000000; /* Green background */
+  border: 1px #03befc; /* Green border */
+  color: #03befc; /* White text */
+  padding: 20px 24px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 13%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group2 button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group2 button:hover {
+  background-color: blueviolet;
+}
+.bodycolor{
+	background:radial-gradient(#99ddff,#004d66);
+}
