@@ -1,1 +1,1 @@
-# collage-predictor
+# college-predictor
